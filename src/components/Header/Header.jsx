@@ -33,10 +33,10 @@ function Header() {
                     <Box mr={10}>
                         <img src="https://github.com/meabhisingh/netflix/blob/master/src/logo.png?raw=true" alt='Netflix Logo' height={30} />
                     </Box>
-                    <Link to="/tvshows" style={{ textDecoration: 'none', color: 'white', marginRight: '4%' }}>TV Shows</Link>
-                    <Link to="/movies" style={{ textDecoration: 'none', color: 'white', marginRight: '4%' }}>Movies</Link>
-                    <Link to="/recentlyadded" style={{ textDecoration: 'none', color: 'white', marginRight: '4%' }}>Recently Added</Link>
-                    <Link to="/mylist" style={{ textDecoration: 'none', color: 'white', marginRight: '4%' }}>My List</Link>
+                    <Link to="/tvshows" style={{ textDecoration: 'none', color: 'white', marginRight: '5%' }}>TV Shows</Link>
+                    <Link to="/movies" style={{ textDecoration: 'none', color: 'white', marginRight: '5%' }}>Movies</Link>
+                    <Link to="/recentlyadded" style={{ textDecoration: 'none', color: 'white', marginRight: '5%' }}>Recently Added</Link>
+                    <Link to="/mylist" style={{ textDecoration: 'none', color: 'white', marginRight: '5%' }}>My List</Link>
                 </Toolbar>
             </Container>
         </AppBar>
